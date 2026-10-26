@@ -1,0 +1,2 @@
+La classe javax.swing.JOptionPane est considérée comme une façade dans le contexte du patron de conception Façade (Facade Pattern)
+car elle simplifie l'accès à un sous-système complexe de l'API Swing pour afficher des boîtes de dialogue graphiques.
